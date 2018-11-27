@@ -1209,10 +1209,10 @@
 }
 .page5{
   width: 839px;    
-  height: 1300px;
+  height: 1200px;
   margin: 10px 30px 20px 40px;
   padding: 40px;
-  background-color: #FF8800;
+  background-color: #FF6600;
 }
 .page5a{
   width: 245px;
@@ -1230,7 +1230,7 @@
   padding: 1px;
   display: inline-block; 
   vertical-align: top;   
-  background-color: #21A8E7;
+  background-color: #8721E7;
 }
 .page5c{
   width: 245px;
@@ -1239,7 +1239,7 @@
   padding: 1px;
   display: inline-block;
   vertical-align: top;    
-  background-color: #21A8E7;
+  background-color: #0E8888;
 }
 .page5d{
   width: 800px;
@@ -1248,7 +1248,7 @@
   padding: 1px;
   display: inline-block;  
    vertical-align: top;  
-  background-color: #21A8E7;
+  background-color: #4521E7;
 }
 .page5a1{
   width:85px;
@@ -1257,7 +1257,7 @@
   padding: 1px;
   display: inline-block; 
   vertical-align: top;    
-  background-color: #DAE721;
+  background-color: #3D3F0F;
 }
 .page5a2{
   width:60px;
@@ -1275,7 +1275,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #9E21E7;
 }
 .page5a4{
   width:65px;
@@ -1374,7 +1374,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #E7D321;
 }
 .page5a15{
   width:200px;
@@ -1383,7 +1383,7 @@
   padding: 1px;
   display: inline-block; 
   vertical-align: top;    
-  background-color: #DAE721;
+  background-color: #C9E721;
 }
 .page5a16{
   width:60px;
@@ -1392,7 +1392,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #E72184;
 }
 .page5a17{
   width:60px;
@@ -1401,7 +1401,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #41EB5D;
 }
 .page5a18{
   width:40px;
@@ -1417,7 +1417,7 @@
   margin: 20px;
   padding: 1px;
   display: inline-block; 
-  background-color: #21E742;
+  background-color: #3521E7;
 }
 .page5b1{
   width:200px;
@@ -1435,7 +1435,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #249980;
 }
 .page5b3{
   width:60px;
@@ -1452,7 +1452,7 @@
   margin: 5px 30px 10px 75px;
   padding: 1px;
   display: inline-block; 
-  background-color: #21E742;
+  background-color: #4C21E7;
 }
 .page5b5{
   width:150px;
@@ -1469,7 +1469,7 @@
   padding: 1px;
   display: inline-block; 
   vertical-align: top;    
-  background-color: #DAE721;
+  background-color: #4A4D24;
 }
 .page5b7{
   width:60px;
@@ -1478,7 +1478,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #E4E721;
 }
 .page5b8{
   width:60px;
@@ -1505,7 +1505,7 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #21E742;
+  background-color: #48BE5C;
 }
 .page5b11{
   width:60px;
@@ -1545,8 +1545,8 @@
 }
 .page5b15{
   width:80px;
-  height: 100px ;
-  margin: 20px 10px;
+  height: 120px ;
+  margin: 30px 10px 20px 20px ;
   padding: 1px;
   display: inline-block; 
   vertical-align: top;    
@@ -1559,16 +1559,16 @@
   padding: 1px;
   display: inline-block; 
   border-radius: 50%;    
-  background-color: #E74F21;
+  background-color: #E721B6;
 }
 .page5b17{
   width:80px;
-  height: 100px ;
-  margin: 20px 10px;
+  height: 120px ;
+  margin: 30px 10px 20px 20px ;
   padding: 1px;
   display: inline-block; 
   vertical-align: top;    
-  background-color: #DAE721;
+  background-color: #21E774;
 }
 .page5b18{
   width:55px;
@@ -1579,4 +1579,839 @@
   border-radius: 50%;    
   background-color: #E74F21;
 }
-
+.page5c1{
+  width:90px;
+  height: 90px ;
+  margin: 30px 10px 20px 20px ;
+  padding: 1px;
+  display: inline-block; 
+  vertical-align: top;    
+  background-color: #6D21E7;
+}
+.page5bc2{
+  width:55px;
+  height: 55px ;
+  margin: 15px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;    
+  background-color: #E72121;
+}
+.page5c3{
+  width:55px;
+  height: 90px ;
+  margin: 30px 10px 20px 20px ;
+  padding: 1px;
+  display: inline-block; 
+  vertical-align: top;    
+  background-color: #21E0E7;
+}
+.page5bc4{
+  width:45px;
+  height: 75px ;
+  margin: 5px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;    
+  background-color: #E72121;
+}
+.page5c5{
+  width:200px;
+  height: 160px ;
+  margin: 20px;
+  padding: 1px;
+  display: inline-block; 
+  vertical-align: top;    
+  background-color: #DAE721;
+}
+.page5c6{
+  width:60px;
+  height: 60px ;
+  margin: 5px 15px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;    
+  background-color: #249980;
+}
+.page5c7{
+  width:60px;
+  height: 60px ;
+  margin:5px 15px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;    
+  background-color: #21E742;
+}
+.page5c8{
+  width:60px;
+  height: 60px ;
+  margin:15px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;  
+  background-color: #4C21E7;
+}
+.page5c9{
+  width:60px;
+  height: 60px ;
+  margin: 15px;
+  padding: 1px;
+  display: inline-block; 
+  border-radius: 50%;  
+  background-color: #21E742;
+}
+.page5c10{
+  width:200px;
+  height: 160px ;
+  margin: 20px;
+  padding: 1px;
+  display: inline-block; 
+  vertical-align: top;    
+  background-color: #20D187;
+}
+.page5c11{
+  width:120px;
+  height: 65px ;
+  margin: 15px 40px;
+  padding: 1px;
+  display: inline-block; 
+  vertical-align: top;    
+  background-color: #D12020;
+}
+.page5c12{
+    width:100px;
+    height: 40px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block; 
+    border-radius: 50%;   
+    background-color: #20D1C2;
+  }
+  .page5c13{
+    width:60px;
+    height: 60px ;
+    margin: -5px 66px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #856325;
+  }
+  .page5c14{
+    width:80px;
+    height:280px ;
+    margin: 15px 20px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #D12020;
+  }
+  .page5c15{
+    width:60px;
+    height: 60px ;
+    margin:20px 10px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #856325;
+  }
+  .page5c16{
+    width:60px;
+    height: 60px ;
+    margin: 20px 10px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #856325;
+  }
+  .page5c17{
+    width:60px;
+    height: 60px ;
+    margin: 20px 10px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #856325;
+  }
+  .page5c18{
+    width:80px;
+    height:280px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #2FD120;
+  }
+  .page5d1{
+    width: 765px;
+    height: 225px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;  
+     vertical-align: top;  
+    background-color: #21E75C;
+  }
+  .page5d2{
+    width:210px;
+    height:180px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #D12020;
+  }
+  .page5d3{
+    width:60px;
+    height: 60px ;
+    margin:20px 25px 5px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;    
+    background-color: #388525;
+  }
+  .page5d4{
+    width:60px;
+    height: 60px ;
+    margin: 20px 15px 5px;
+    padding: 1px;
+    border-radius: 50%; 
+    display: inline-block;   
+    background-color: #FFA509;
+  }
+  .page5d5{
+    width:185px;
+    height: 60px ;
+    margin: 20px 10px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #FFA60B;
+  }
+  .page5d6{
+    width:210px;
+    height:180px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #D4FF13;
+  }
+  .page5d7{
+    width:60px;
+    height: 60px ;
+    margin:20px 25px 5px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;    
+    background-color: #856325;
+  }
+  .page5d8{
+    width:60px;
+    height: 60px ;
+    margin: 20px 15px 5px;
+    padding: 1px;
+    border-radius: 50%; 
+    display: inline-block;   
+    background-color: #4A2585;
+  }
+  .page5d9{
+    width:185px;
+    height: 60px ;
+    margin: 20px 10px;
+    padding: 1px;
+    border-radius: 50%;   
+    background-color: #588525;
+  }
+  .page5d10{
+    width:280px;
+    height:180px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #613EFF;
+  }
+  .page5d11{
+    width:250px;
+    height:140px ;
+    margin: 15px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #50EBFF;
+  }
+  .page5d12{
+    width:60px;
+    height: 60px ;
+    margin: 40px 5px 20px 15px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;    
+    background-color: #856325;
+  }
+  .page5d13{
+    width:60px;
+    height: 60px ;
+    margin:  40px 5px 20px 5px;
+    padding: 1px;
+    border-radius: 50%; 
+    display: inline-block;   
+    background-color: #4A2585;
+  }
+  .page5d14{
+    width:60px;
+    height: 60px ;
+    margin: 40px 5px 20px 5px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: #588525;
+  }
+  .page6{
+    width: 950px;    
+    height: 1150px;
+    margin: 10px 30px 20px 40px;
+    padding: 40px;
+    background-color: #5731FF;
+  }
+  .page6a{
+    width:180px;
+    height: 180px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #FF3838;
+  }
+  .page6a1{
+    width:50px;
+    height: 50px ;
+    margin: 35px 20px 10px;
+    padding: 1px;
+    display: inline-block;     
+    border-radius: 50%;
+    background-color: #2BA8BE;
+  }
+  .page6a2{
+    width:50px;
+    height: 50px ;
+    margin: 35px 10px 10px;
+    padding: 1px;
+    display: inline-block;     
+    border-radius: 50%;
+    background-color: #2BA8BE;
+  }
+  .page6a3{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #BE2B32;
+  }
+  .page6a4{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #BE2B70;
+  }
+  .page6a5{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #2BADBE;
+  }
+  .page6b{
+    width:180px;
+    height: 180px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #38FF74;
+  }
+  .page6b1{
+    width:50px;
+    height: 50px ;
+    margin: 35px 20px 10px;
+    padding: 1px;
+    display: inline-block;     
+    border-radius: 50%;
+    background-color: rgb(238, 67, 164);
+  }
+  .page6b2{
+    width:50px;
+    height: 50px ;
+    margin: 35px 10px 10px;
+    padding: 1px;
+    display: inline-block;     
+    border-radius: 50%;
+    background-color: #1BDDF7;
+  }
+  .page6b3{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #FF3B45;
+  }
+  .page6b4{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #2BBE92;
+  }
+  .page6b5{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #AFBE2B;
+  }
+  .page6c{
+    width:500px;
+    height: 180px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #EB55FF;
+  }
+  .page6c1{
+    width:140px;
+    height: 140px ;
+    margin: 15px 2px 15px 15px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #93FF55;
+  }
+  .page6c2{
+    width:70px;
+    height: 70px ;
+    margin: 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #55CFFF;
+  }
+  .page6c3{
+    width:140px;
+    height: 140px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #93FF55;
+  }
+  .page6c4{
+    width:70px;
+    height: 70px ;
+    margin: 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #55CFFF;
+  }
+  .page6c5{
+    width:140px;
+    height: 140px ;
+    margin: 15px 5px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #93FF55;
+  }
+  .page6c6{
+    width:70px;
+    height: 70px ;
+    margin: 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #55CFFF;
+  }
+  .page6d{
+    width:180px;
+    height: 380px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;
+    vertical-align: top;     
+    background-color: rgb(113, 246, 255);
+  }
+  .page6d1{
+    width:140px;
+    height: 340px ;
+    margin: 20px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: rgb(52, 238, 83);
+  }
+  .page6d2{
+    width:100px;
+    height: 100px ;
+    margin: 40px 17px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: #FCFF55;
+  }
+  .page6d3{
+    width:100px;
+    height: 100px ;
+    margin: 15px 17px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: #FCFF55;
+  }
+  .page6e{
+    width:180px;
+    height: 380px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;  
+    vertical-align: top;   
+    background-color: rgb(130, 255, 113);
+  }
+  .page6e1{
+    width:140px;
+    height: 95px ;
+    margin: 20px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: rgb(13, 63, 21);
+  }
+  .page6e2{
+    width:80px;
+    height: 80px ;
+    margin:  7px 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(61, 255, 90);
+  }
+  .page6e3{
+    width:140px;
+    height: 200px ;
+    margin: 20px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: rgb(50, 255, 245);
+  }
+  .page6e4{
+    width:80px;
+    height: 80px ;
+    margin:  7px 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(15, 255, 47);
+  }
+  .page6e5{
+    width:80px;
+    height: 80px ;
+    margin:  7px 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(17, 165, 37);
+  }
+  .page6f{
+    width:290px;
+    height: 380px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;  
+    vertical-align: top;   
+    background-color: hsl(315, 80%, 37%);
+  }
+  .page6f1{
+    width:270px;
+    height: 270px ;
+    margin:  45px 10px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(15, 255, 47);
+  }
+  .page6g{
+    width:160px;
+    height: 380px ;
+    margin: 10px 20px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: rgb(26, 141, 135);
+  }
+  .page6g1{
+    width:100px;
+    height: 100px ;
+    margin:20px 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: hsl(61, 100%, 50%);
+  }
+  .page6g2{
+    width:100px;
+    height: 100px ;
+    margin:0px 30px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(21, 63, 253);
+  }
+  .page6g3{
+    width:125px;
+    height: 80px ;
+    margin:20px 20px;
+    padding: 1px;
+    border-radius: 50%;
+    display: inline-block;     
+    background-color: rgb(255, 15, 15);
+  }
+  .page6x{
+    width: 950px;    
+    height: 500px;
+    margin: 40px 0px ;
+    padding: 1px;
+    background-color: #8EFF31;
+  }
+  .page6y1{
+    width:180px;
+    height: 180px ;
+    margin: 20px 30px 20px 55px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #EBFF38;
+  }
+  .page6y2{
+    width:50px;
+    height: 50px ;
+    margin: 30px 60px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    background-color: rgb(172, 238, 67);
+  }
+  .page6y3{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #B3000C;
+  }
+  .page6y4{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #2BBE92;
+  }
+  .page6y5{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #AFBE2B;
+  }
+  .page6y6{
+    width:180px;
+    height: 180px ;
+    margin: 10px 30px 10px 0px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #4FFF84;
+  }
+  .page6y7{
+    width:50px;
+    height: 50px ;
+    margin: 30px 60px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    background-color: rgb(238, 67, 164);
+  }
+  .page6y8{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #057433;
+  }
+  .page6y9{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #68FFD2;
+  }
+  .page6y10{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #AFBE2B;
+  }
+  .page6y11{
+    width:180px;
+    height: 180px ;
+    margin: 10px 30px 10px 0px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #FFE138;
+  }
+  .page6y12{
+    width:50px;
+    height: 50px ;
+    margin: 30px 60px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    background-color: rgb(32, 177, 182);
+  }
+  .page6y13{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #863BFF;
+  }
+  .page6y14{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #3EFFC2;
+  }
+  .page6y15{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #AFBE2B;
+  }
+  .page6y16{
+    width:180px;
+    height: 180px ;
+    margin: 10px;
+    padding: 1px;
+    display: inline-block;     
+    background-color: #940D60;
+  }
+  .page6y17{
+    width:50px;
+    height: 50px ;
+    margin: 30px 60px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    background-color: rgb(238, 67, 164);
+  }
+  .page6y18{
+    width:50px;
+    height: 50px ;
+    margin: 0px -4px 0px 16px;
+    display: inline-block;   
+    background-color: #3BFF5C;
+  }
+  .page6y19{
+    width:50px;
+    height: 50px ;
+    margin: 0px;
+    display: inline-block;     
+    background-color: #1EFFBC;
+  }
+  .page6y20{
+    width:50px;
+    height: 50px ;
+    margin:0px 10px 0px -5px;
+    display: inline-block;     
+    background-color: #F0FF6D;
+  }
+  .page6z{
+    width:430px;
+    height: 180px ;
+    margin: 30px 10px 30px 30px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #006329;
+  }
+  .page6z1{
+    width:390px;
+    height: 150px ;
+    margin: 18px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #FFD51B;
+  }
+  .page6z2{
+    width:90px;
+    height: 90px ;
+    margin:25px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    display: inline-block; 
+    background-color: rgb(238, 67, 164);
+  }
+  .page6z3{
+    width:90px;
+    height: 90px ;
+    margin: 25px 15px; 
+    padding: 1px; 
+     display: inline-block;    
+    border-radius: 50%;
+    background-color: rgb(238, 67, 164);
+  }
+  .page6z4{
+    width:90px;
+    height: 90px ;
+    margin: 25px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    display: inline-block; 
+    background-color: rgb(238, 67, 164);
+  }
+  .page6z5{
+    width:430px;
+    height: 180px ;
+    margin: 30px 10px 30px 20px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #006329;
+  }
+  .page6z6{
+    width:390px;
+    height: 150px ;
+    margin: 18px;
+    padding: 1px;
+    display: inline-block; 
+    vertical-align: top;    
+    background-color: #FFD51B;
+  }
+  .page6z7{
+    width:90px;
+    height: 90px ;
+    margin:25px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    display: inline-block; 
+    background-color: rgb(238, 67, 164);
+  }
+  .page6z8{
+    width:90px;
+    height: 90px ;
+    margin: 25px 15px; 
+    padding: 1px; 
+     display: inline-block;    
+    border-radius: 50%;
+    background-color: rgb(238, 67, 164);
+  }
+  .page6z9{
+    width:90px;
+    height: 90px ;
+    margin: 25px 15px;
+    padding: 1px;     
+    border-radius: 50%;
+    display: inline-block; 
+    background-color: rgb(238, 67, 164);
+  }
+  
